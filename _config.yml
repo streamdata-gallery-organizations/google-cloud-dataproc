@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-cloud-dataproc.api.streamdata.gallery
+title: Streamdata Gallery Google Cloud Dataproc
+url: google-cloud-dataproc.streamdata.gallery
 tag: Google Cloud Dataproc
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-cloud-dataproc
 github_branch: master
 collections:
