@@ -8,10 +8,10 @@ description: Use Google Cloud Dataproc, an Apache Hadoop, Apache Spark, Apache P
   you a powerful and complete data processing platform.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dataproc.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Cloud Dataproc
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-dataproc/master/_listings/google-cloud-dataproc/apis.md
 specificationVersion: "0.14"
 apis:

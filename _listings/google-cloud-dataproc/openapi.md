@@ -4,7 +4,7 @@ x-collection-name: Google Cloud Dataproc
 x-complete: 1
 info:
   title: Google Cloud Dataproc
-  description: manages-hadoopbased-clusters-and-jobs-on-google-cloud-platform
+  description: manages-hadoopbased-clusters-and-jobs-on-google-cloud-platform-
   contact:
     name: Google
     url: https://google.com
