@@ -5,7 +5,7 @@ description: This is a repository of google cloud dataproc APIs, self-contained 
   operations.
 image: http://template.streamdata.gallery/assets/google-cloud-dataproc.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://google-cloud-dataproc.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
